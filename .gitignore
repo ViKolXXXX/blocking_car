@@ -263,4 +263,9 @@ cython_debug/
 /.idea/inspectionProfiles/profiles_settings.xml
 /.idea/vcs.xml
 /config/
+<<<<<<< HEAD
 /.idea/
+=======
+/untitled/
+/.idea/*
+>>>>>>> telegram
